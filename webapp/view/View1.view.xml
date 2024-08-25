@@ -1,0 +1,12 @@
+<mvc:View controllerName="zov.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="Menu inicial">
+        <Button text="Press" press="onPress"/>
+        
+        
+
+
+    </Page>
+    <p> texto</p>
+</mvc:View>
